@@ -1,0 +1,48 @@
+.intro {
+	color: #00008B;
+	}
+#top {
+	color: purple;
+	}
+
+a:link {
+    color: blue;
+	}
+
+a:visited {
+    color: red;
+	}
+
+a:hover {
+    color: purple;
+	}
+
+a:link {
+    text-decoration: none;
+	}
+
+a:visited {
+    text-decoration: none;
+	}
+
+a:hover {
+    text-decoration: underline;
+	}
+
+html {
+    margin: 25px 50px 75px 100px;
+	}
+
+p {
+    padding: 30px 30px 15px 15px;
+}
+
+h1 {
+  text-align: center;
+	}
+
+h3 {
+  text-align: center;
+	}
+
+
